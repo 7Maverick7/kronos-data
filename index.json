@@ -9,6 +9,33 @@
             "image": "https://github.com/Divity/kronos-data/releases/download/r1/p1.png",
             "version": "1",
             "description": "Mods for Kronos show up here. Install them in one click and turn them on or off from the Library."
+        },
+        {
+            "id": "boss_auto_start",
+            "type": "script",
+            "name": "Boss Auto-Start",
+            "author": "Ares",
+            "version": "3.0",
+            "description": "Skips the main Easter egg to the boss fight when your Zombies match reaches round 5. Change the round in kronos/boss_auto_cfg/settings.json.",
+            "image": "https://github.com/Ares32e/bo7-boss-auto-start/releases/download/v3.0/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 78,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/bo7-boss-auto-start/releases/download/v3.0/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_boss_start.gsc",
+                    "size": 30397,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Ares32e/bo7-boss-auto-start/releases/download/v3.0/zm_boss_start.gsc"
+                    ]
+                }
+            ]
         }
     ]
 }
