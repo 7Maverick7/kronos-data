@@ -6,6 +6,7 @@
             "type": "ui",
             "name": "Welcome to Kronos Black Ops 7",
             "author": "Kronos",
+            "image": "https://github.com/Divity/kronos-data/releases/download/r1/p1.png",
             "version": "1",
             "description": "Mods for Kronos show up here. Install them in one click and turn them on or off from the Library."
         }
