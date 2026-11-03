@@ -1,4 +1,13 @@
 {
     "schema": 1,
-    "items": []
+    "items": [
+        {
+            "id": "welcome",
+            "type": "ui",
+            "name": "Welcome to Kronos Black Ops 7",
+            "author": "Kronos",
+            "version": "1",
+            "description": "Mods for Kronos show up here. Install them in one click and turn them on or off from the Library."
+        }
+    ]
 }
