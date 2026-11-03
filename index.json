@@ -2,13 +2,31 @@
     "schema": 1,
     "items": [
         {
-            "id": "welcome",
-            "type": "ui",
-            "name": "Welcome to Kronos Black Ops 7",
-            "author": "Kronos",
-            "image": "https://github.com/Divity/kronos-data/releases/download/r1/p1.png",
+            "id": "random_perk_spawns",
+            "type": "script",
+            "name": "Random Perk Spawns",
+            "author": "Spence",
             "version": "1",
-            "description": "Mods for Kronos show up here. Install them in one click and turn them on or off from the Library."
+            "description": "Randomizes perk machine locations every game on all maps except Paradox Junction and Dead Ops Arcade.",
+            "image": "https://github.com/YoImSpence/BO7-Randomized-Perk-Machines/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 74,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/YoImSpence/BO7-Randomized-Perk-Machines/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/random_perk_mod.gsc",
+                    "size": 12345,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/YoImSpence/BO7-Randomized-Perk-Machines/releases/download/v1/random_perk_mod.gsc"
+                    ]
+                }
+            ]
         }
     ]
 }
