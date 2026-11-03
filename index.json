@@ -22,7 +22,7 @@
       "files": [
         {
           "name": "Assets/Lua/zm_cursed_arsenal_prompt_post.lua",
-          "size": 0,
+          "size": 6567,
           "hash": "",
           "urls": [
             "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_cursed_arsenal_prompt_post.lua"
@@ -30,7 +30,7 @@
         },
         {
           "name": "custom_scripts/zm_classic_perks_2500.gsc",
-          "size": 0,
+          "size": 21013,
           "hash": "",
           "urls": [
             "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_classic_perks_2500.gsc"
@@ -38,7 +38,7 @@
         },
         {
           "name": "custom_scripts/zm_cursed_reimagined.gsc",
-          "size": 0,
+          "size": 71441,
           "hash": "",
           "urls": [
             "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_cursed_reimagined.gsc"
