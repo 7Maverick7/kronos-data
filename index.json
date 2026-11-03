@@ -1,14 +1,50 @@
+
 {
-    "schema": 1,
-    "items": [
+  "schema": 1,
+  "items": [
+    {
+      "id": "welcome",
+      "type": "ui",
+      "name": "Welcome to Kronos Black Ops 7",
+      "author": "Kronos",
+      "image": "https://github.com/Divity/kronos-data/releases/download/r1/p1.png",
+      "version": "1",
+      "description": "Mods for Kronos show up here. Install them in one click and turn them on or off from the Library."
+    },
+    {
+      "id": "cursed_reimagined",
+      "type": "script",
+      "name": "Cursed Reimagined",
+      "author": "MeowRaK",
+      "version": "4.0",
+      "description": "Classic-inspired BO7 Zombies overhaul featuring combined PaP and rarity progression, Green wall-buys and Mystery Box weapons, random Ammo Mods, custom armor, classic melee, and fixed Field Upgrade recharge requirements.",
+      "image": "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/preview.png",
+      "files": [
         {
-            "id": "welcome",
-            "type": "ui",
-            "name": "Welcome to Kronos Black Ops 7",
-            "author": "Kronos",
-            "image": "https://github.com/Divity/kronos-data/releases/download/r1/p1.png",
-            "version": "1",
-            "description": "Mods for Kronos show up here. Install them in one click and turn them on or off from the Library."
+          "name": "Assets/Lua/zm_cursed_arsenal_prompt_post.lua",
+          "size": 0,
+          "hash": "",
+          "urls": [
+            "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_cursed_arsenal_prompt_post.lua"
+          ]
+        },
+        {
+          "name": "custom_scripts/zm_classic_perks_2500.gsc",
+          "size": 0,
+          "hash": "",
+          "urls": [
+            "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_classic_perks_2500.gsc"
+          ]
+        },
+        {
+          "name": "custom_scripts/zm_cursed_reimagined.gsc",
+          "size": 0,
+          "hash": "",
+          "urls": [
+            "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_cursed_reimagined.gsc"
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }
