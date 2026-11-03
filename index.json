@@ -18,7 +18,7 @@
       "author": "MeowRaK",
       "version": "4.0",
       "description": "Classic-inspired BO7 Zombies overhaul with combined PaP and rarity progression, Green wall-buys and Mystery Box weapons, random Ammo Mods, classic melee, custom armor, and fixed Field Upgrade recharge requirements.",
-      "image": "REPLACE_WITH_YOUR_PREVIEW_IMAGE_URL",
+      "image": "https://github.com/MeowRaK/bo7-cursed-reimagned/releases/tag/v4.0/preview.png",
       "files": [
         {
           "name": "custom_scripts/zm_classic_perks_2500.gsc",
