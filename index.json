@@ -129,7 +129,8 @@
             "name": "Mock Multiplayer Matchmaking",
             "author": "Maverick",
             "version": "1.1-beta",
-            "description": "Find a Match and Quick Play start offline Multiplayer matches against bots instead of searching. Pick any playlist, or tick modes in the Quick Play filter, and vote on the next map between matches; matches keep rolling until you leave the lobby. Bot difficulty (default Mixed) is set at the top of mp_matchmaking_post.lua.",
+            "description": "Find a Match and Quick Play start offline matches against bots, with a map vote between matches. Matches keep rolling until you leave the lobby.",
+            "image": "https://github.com/7Maverick7/kronos-mock-mp-matchmaking/releases/download/beta/preview.png",
             "files": [
                 {
                     "name": "mod.json",
