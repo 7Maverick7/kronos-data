@@ -122,6 +122,257 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "fuzmenu",
+            "type": "script",
+            "name": "FuzMenu",
+            "author": "Fuzion28",
+            "version": "2.4.2",
+            "description": "Solo Zombies mod menu: god mode, teleports, any weapon or wonder weapon, Pack-a-Punch, perks, gobblegums, rounds, zombies, saved weapon builds and more. Open with Aim + Melee.",
+            "image": "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 76,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_mod_menu.gsc",
+                    "size": 145254,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/zm_mod_menu.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/zm_mod_menu_post.lua",
+                    "size": 18194,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/zm_mod_menu_post.lua"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_bg.png",
+                    "size": 226490,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_bg.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_cap_b.png",
+                    "size": 824,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_cap_b.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_cap_t.png",
+                    "size": 804,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_cap_t.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_header.png",
+                    "size": 32689,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_header.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_chevron.png",
+                    "size": 941,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_chevron.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_close.png",
+                    "size": 1280,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_close.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_damage.png",
+                    "size": 3461,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_damage.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_fire.png",
+                    "size": 3025,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_fire.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_forge.png",
+                    "size": 2296,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_forge.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_gums.png",
+                    "size": 2963,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_gums.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_gun.png",
+                    "size": 1521,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_gun.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_money.png",
+                    "size": 2252,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_money.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_oldschool.png",
+                    "size": 3247,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_oldschool.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_op.png",
+                    "size": 2342,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_op.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_perks.png",
+                    "size": 1635,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_perks.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_player.png",
+                    "size": 2506,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_player.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_powerups.png",
+                    "size": 1860,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_powerups.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_rounds.png",
+                    "size": 1496,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_rounds.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_settings.png",
+                    "size": 3472,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_settings.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_teleport.png",
+                    "size": 3071,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_teleport.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_upgrade.png",
+                    "size": 1146,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_upgrade.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_wonder.png",
+                    "size": 2281,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_wonder.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_world.png",
+                    "size": 3840,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_world.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_i_zombies.png",
+                    "size": 2961,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_i_zombies.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_knob.png",
+                    "size": 1147,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_knob.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_pill.png",
+                    "size": 1219,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_pill.png"
+                    ]
+                },
+                {
+                    "name": "images/fuzmenu_switch.png",
+                    "size": 1301,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/fuzmenu_switch.png"
+                    ]
+                }
+            ]
         }
     ]
 }
