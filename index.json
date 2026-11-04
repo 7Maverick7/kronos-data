@@ -126,7 +126,7 @@
         {
             "id": "disable_omnimovement",
             "type": "script",
-            "name": "Disable Omni-Movement",
+            "name": "disable omni movement",
             "author": "grum_sudo",
             "version": "1.0.0",
             "description": "Disables omni-movement and tac sprint ",
@@ -153,10 +153,10 @@
         {
             "id": "bo3_health",
             "type": "script",
-            "name": "BO3 Health System",
-            "author": "Kronos",
+            "name": "bo3 health system",
+            "author": "grum_sudo",
             "version": "1.0.0",
-            "description": "restores classic black ops3 health system: 3 hit down with no jugg 5 hit down with jugg. disables armor system ,jug augments, super sprinters, and armoured zombies",
+            "description": "restores black ops 3 health system: 3 hit down with no jugg 5 hit down with jugg. disables armor system ,jug augments, super sprinter zombies, and armoured zombies",
             "image": "",
             "files": [
                 {
