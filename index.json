@@ -12,3 +12,31 @@
         }
     ]
 }
+
+{
+    "id": "aether_restored",
+    "type": "scripts, aseets",
+    "name": "Aether Restored",
+    "author": "@aspect.of.autumn, @.rezerorem, @niceornotnice",
+    "version": "1",
+    "description": "Aether Restored is a restoration of many classic systems and assets, while keeping many of them modern.",
+    "image": "https://github.com/taylorautumngrace/aether-restored/releases/download/v1.0.0/aether_restored.jpg",
+    "files": [
+        {
+            "name": "mod.json",
+            "size": 74,
+            "hash": "",
+            "urls": [
+                "https://github.com/taylorautumngrace/aether-restored/releases/download/v1.0.0/mod.json"
+            ]
+        },
+        {
+            "name": "aether_restored.zip",
+            "size": 18331,
+            "hash": "",
+            "urls": [
+                "https://github.com/taylorautumngrace/aether-restored/archive/refs/tags/v1.0.0.zip"
+            ]
+        }
+    ]
+}
