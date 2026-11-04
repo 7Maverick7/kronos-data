@@ -622,6 +622,68 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "first_box_bo3_mark2",
+            "type": "script",
+            "name": "First Box Patch All Maps & BO3 Raygun Mark II Damage",
+            "author": "vexygottaproblem",
+            "version": "1",
+            "description": "Through round 15, the first three box purchases offer Mark II, the supported map's wonder weapon, then native Kazimir equipment. Mark II base damage is 2,000 per projectile or 3,500 upgraded, before native modifiers; unsupported or missing rewards fall back to normal rolls and upgraded Endgame skill mode keeps native damage.",
+            "image": "https://github.com/soulsliker/first-box-bo3-mark2/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 124,
+                    "hash": "65702709cfe59ae85a4c898e397449d27882fde3a073ee9a677e399e4cad6458",
+                    "urls": [
+                        "https://github.com/soulsliker/first-box-bo3-mark2/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_first_three_box.gsc",
+                    "size": 8876,
+                    "hash": "2ce9fa4275c376479de70b714064b2ad6d926bd823edadadf8d295d578e46db9",
+                    "urls": [
+                        "https://github.com/soulsliker/first-box-bo3-mark2/releases/download/v1/zm_first_three_box.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_mark2_damage.gsc",
+                    "size": 3104,
+                    "hash": "347cbcd129394cabd02a1befecddb03c2ecdd70b8f9dac6b799985088d0148d3",
+                    "urls": [
+                        "https://github.com/soulsliker/first-box-bo3-mark2/releases/download/v1/zm_mark2_damage.gsc"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "enhanced_full_power",
+            "type": "script",
+            "name": "Enhanced Full Power / Death Machine",
+            "author": "tw13",
+            "image": "https://github.com/tomwragg13/enhanced_full_power/releases/download/v1/preview.png",
+            "version": "1",
+            "description": "Full Power power-ups work exactly as normal, and on top of that the player who picks one up is given a random score streak, straight into their streak slot. Weapon streaks (Death Machine, War Machine...) come with full ammo. Item streaks (RC-XD, DAWG, Toma Strike...) work too. Configurable between all weapon streaks, just death machine, all weapons and item streaks. If you're already holding a streak, the new one replaces it. You can choose to have your old one dropped at your feet instead of lost.",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 98,
+                    "hash": "ad2bf036b186a6619098866a614314306275603327aa31d3b6db883dda2ca8d5",
+                    "urls": [
+                        "https://github.com/tomwragg13/enhanced_full_power/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_enhanced_full_power.gsc",
+                    "size": 13615,
+                    "hash": "96c94a79ec91c912dca2c8b101b7264fe606f4e81cad3e453f668d48c00f53b9",
+                    "urls": [
+                        "https://github.com/tomwragg13/enhanced_full_power/releases/download/v1/zm_enhanced_full_power.gsc"
+                    ]
+                }
+            ]
         }
     ]
 }
