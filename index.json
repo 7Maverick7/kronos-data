@@ -345,6 +345,32 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "directed_unlocked",
+            "type": "script",
+            "name": "Directed Unlocked",
+            "author": "Max",
+            "version": "1.2",
+            "description": "Directed Mode without the round cap: quest guidance stays, rounds keep going and the Round-Cap display is hidden. Turn the mod off for the original Directed.",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 306,
+                    "hash": "6fa8e35260b9817b47d3fd779934d2d1a2ba7e89eee6afac3dbd61437dda820c",
+                    "urls": [
+                        "https://github.com/ketsueki96/directed_unlocked_v1.2/releases/download/v1.2/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_directed_unlocked.gsc",
+                    "size": 1778,
+                    "hash": "9f36e434c9710903da70a84ff59d332703a022af2c0642905430212c3195565a",
+                    "urls": [
+                        "https://github.com/ketsueki96/directed_unlocked_v1.2/releases/download/v1.2/zm_directed_unlocked.gsc"
+                    ]
+                }
+            ]
         }
     ]
 }
