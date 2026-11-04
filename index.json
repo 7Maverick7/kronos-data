@@ -125,7 +125,7 @@
         },
         {
             "id": "mock_mp_matchmaking",
-            "type": "script",
+            "type": "ui",
             "name": "Mock Multiplayer Matchmaking",
             "author": "Maverick",
             "version": "1.1-beta",
@@ -134,8 +134,8 @@
             "files": [
                 {
                     "name": "mod.json",
-                    "size": 96,
-                    "hash": "506ec823b9e1c34d3acfef21331c05324c299b3ed5c2070b474a6ce584c81c65",
+                    "size": 100,
+                    "hash": "",
                     "urls": [
                         "https://github.com/7Maverick7/kronos-mock-mp-matchmaking/releases/download/beta/mod.json"
                     ]
@@ -143,7 +143,7 @@
                 {
                     "name": "lua/mp_matchmaking_post.lua",
                     "size": 141980,
-                    "hash": "d89def252076145b2df0d0328ae60f5e0f7548096942758d759a8feb2304dd67",
+                    "hash": "",
                     "urls": [
                         "https://github.com/7Maverick7/kronos-mock-mp-matchmaking/releases/download/beta/mp_matchmaking_post.lua"
                     ]
