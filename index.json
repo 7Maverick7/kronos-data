@@ -18,18 +18,18 @@
       "author": "MeowRaK",
       "version": "4.0",
       "description": "Classic-inspired BO7 Zombies overhaul with combined PaP and rarity progression, Green wall-buys and Mystery Box weapons, random Ammo Mods, classic melee, custom armor, and fixed Field Upgrade recharge requirements.",
-      "image": "https://github.com/MeowRaK/bo7-cursed-reimagned/releases/tag/v4.0/preview.png",
+      "image": "https://raw.githubusercontent.com/MeowRaK/bo7-cursed-reimagined/main/preview.png",
       "files": [
         {
-          "name": "custom_scripts/zm_classic_perks_2500.gsc",
-          "size": 21013,
+          "name": "mod.json",
+          "size": 77,
           "hash": "",
           "urls": [
-            "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_classic_perks_2500.gsc"
+            "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/mod.json"
           ]
         },
         {
-          "name": "custom_scripts/zm_cursed_reimagined.gsc",
+          "name": "scripts/zm_cursed_reimagined.gsc",
           "size": 71441,
           "hash": "",
           "urls": [
@@ -37,7 +37,15 @@
           ]
         },
         {
-          "name": "Assets/Lua/zm_cursed_arsenal_prompt_post.lua",
+          "name": "scripts/zm_classic_perks_2500.gsc",
+          "size": 21013,
+          "hash": "",
+          "urls": [
+            "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_classic_perks_2500.gsc"
+          ]
+        },
+        {
+          "name": "lua/zm_cursed_arsenal_prompt_post.lua",
           "size": 6567,
           "hash": "",
           "urls": [
