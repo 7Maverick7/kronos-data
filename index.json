@@ -122,6 +122,97 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "forge_tool",
+            "type": "script",
+            "name": "BO7 - World Builder",
+            "author": "ZMRev",
+            "version": "4.0 stable",
+            "description": "Build your own version of any map. Press F8 to spawn props, machines and zombies, move or delete what's already there, change the sky, and save your layout to load again later.",
+            "image": "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/forge_tool_preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 90,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools.gsc",
+                    "size": 229930,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_mp.gsc",
+                    "size": 71068,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_mp.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_ob.gsc",
+                    "size": 28098,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_ob.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm.gsc",
+                    "size": 140173,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_zm.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_bgb.gsc",
+                    "size": 192,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_zm_bgb.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_hornet.gsc",
+                    "size": 764,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_zm_hornet.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/modtools_zm_tt.gsc",
+                    "size": 280,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/modtools_zm_tt.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/zm_builder_models_post.lua",
+                    "size": 1524284,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/zm_builder_models_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_builder_post.lua",
+                    "size": 429512,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/ESFang/BO7-Forge-Tool-Stable-1.67/releases/download/v1.68-s1.20/zm_builder_post.lua"
+                    ]
+                }
+            ]
         }
     ]
 }
