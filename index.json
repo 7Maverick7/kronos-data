@@ -49,7 +49,7 @@
         {
             "name": "mod.json",
             "size": 79,
-            "hash": "",
+            "hash": "c3595c591bed60c5449df8835defe94d14c622c733b458e8bb58af40532d17d5",
             "urls": [
                 "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v2/mod.json"
             ]
@@ -57,7 +57,7 @@
         {
             "name": "scripts/zm_blood_burner.gsc",
             "size": 122402,
-            "hash": "",
+            "hash": "f84f17ca44c233d733d9cafd6c0527db0da833d29dbe9957aef4c0a28263faa3",
             "urls": [
                 "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v2/zm_blood_burner.gsc"
             ]
@@ -65,7 +65,7 @@
         {
             "name": "scripts/zm_blood_burner_ashes.gsc",
             "size": 12775,
-            "hash": "",
+            "hash": "a93d86f7ab0185fc0ba083bd1b1ad57b35528dfb79e49794b9f7f547426371ff",
             "urls": [
                 "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v2/zm_blood_burner_ashes.gsc"
             ]
@@ -73,7 +73,7 @@
         {
             "name": "scripts/zm_blood_burner_ashes_barriers.gsc",
             "size": 9429,
-            "hash": "",
+            "hash": "9eedfd68fc262c8e9060d99bc53614f3eb4e71d48131b4e898aa31e499e75442",
             "urls": [
                 "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v2/zm_blood_burner_ashes_barriers.gsc"
             ]
@@ -81,7 +81,7 @@
         {
             "name": "lua/zm_blood_burner_menu_post.lua",
             "size": 14853,
-            "hash": "",
+            "hash": "5bd3e8f7c22977dddadc00b079751ab6eb73e6c7da87cf7f50e01f313f4d9216",
             "urls": [
                 "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v2/zm_blood_burner_menu_post.lua"
             ]
@@ -89,7 +89,7 @@
         {
             "name": "lua/zm_blood_burner_hud_post.lua",
             "size": 7423,
-            "hash": "",
+            "hash": "c6d63c558dbb2b010f2c024b9e4ec1f3b9a5db9cecc3d8613f4e02dd8d4d0713",
             "urls": [
                 "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v2/zm_blood_burner_hud_post.lua"
             ]
@@ -97,7 +97,7 @@
         {
             "name": "lua/zm_bb_key_hud_post.lua",
             "size": 7231,
-            "hash": "",
+            "hash": "8aa11664371a9a7af15719f3a0b7040862747dce2093bcb074b80dba40077f82",
             "urls": [
                 "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v2/zm_bb_key_hud_post.lua"
             ]
