@@ -9,6 +9,65 @@
             "image": "https://github.com/Divity/kronos-data/releases/download/r1/p1.png",
             "version": "1",
             "description": "Mods for Kronos show up here. Install them in one click and turn them on or off from the Library."
+        },
+        {
+            "id": "blood_burner",
+            "type": "script",
+            "name": "Blood Burner",
+            "author": "Shlogbobble",
+            "version": "1",
+            "description": "Endgame's Blood Burner bike as a Zombies field upgrade. Pick it in your loadout and use it to summon your own bike: run zombies down to charge its Aether Pulse, which shocks nearby zombies and drops a live LT53 Kazimir. Left alone, the bike lures zombies in and explodes. Works on every map. On Ashes of the Damned it also smashes the wooden barriers like Tessie, rams Veytherion for Tessie's damage, carries his aetheric energy during his spin phase, and the Slorpy easter egg rewards it. (The two zm_blood_burner_ashes files only load on Ashes, by design.)",
+            "image": "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v1/blood_burner_preview.jpg",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 80,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_blood_burner.gsc",
+                    "size": 86854,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v1/zm_blood_burner.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_blood_burner_ashes.gsc",
+                    "size": 12775,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v1/zm_blood_burner_ashes.gsc"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_blood_burner_ashes_barriers.gsc",
+                    "size": 9429,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v1/zm_blood_burner_ashes_barriers.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/zm_blood_burner_menu_post.lua",
+                    "size": 14853,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v1/zm_blood_burner_menu_post.lua"
+                    ]
+                },
+                {
+                    "name": "lua/zm_blood_burner_hud_post.lua",
+                    "size": 7423,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v1/zm_blood_burner_hud_post.lua"
+                    ]
+                }
+            ]
         }
     ]
 }
