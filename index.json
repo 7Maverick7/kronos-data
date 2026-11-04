@@ -122,6 +122,60 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "disable_omnimovement",
+            "type": "script",
+            "name": "Disable Omni-Movement",
+            "author": "grum_sudo",
+            "version": "1.0.0",
+            "description": "Disables omni-movement and tac sprint ",
+            "image": "",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 80,
+                    "hash": "4c954c36ae77648eab35e674ab5c197e9ab7fdcb353659cdbf960056f954ed08",
+                    "urls": [
+                        "https://github.com/grum-sudo/bo7-mods/releases/download/1.0-disable_omnimovement/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/disable_omnimovement.gsc",
+                    "size": 563,
+                    "hash": "97cfe498bb9ed187228a31192a85728e85bb769e5b445b3b788e78ee8670821f",
+                    "urls": [
+                        "https://github.com/grum-sudo/bo7-mods/releases/download/1.0-disable_omnimovement/disable_omnimovement.gsc"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "bo3_health",
+            "type": "script",
+            "name": "BO3 Health System",
+            "author": "Kronos",
+            "version": "1.0.0",
+            "description": "restores classic black ops3 health system: 3 hit down with no jugg 5 hit down with jugg. disables armor system ,jug augments, super sprinters, and armoured zombies",
+            "image": "",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 90,
+                    "hash": "62140d54b353c9f67b906e4263c841ffb340b9f4ff77705e3dc1381347927d62",
+                    "urls": [
+                        "https://github.com/grum-sudo/bo7-mods/releases/download/1.0-bo3_health/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/bo3_health.gsc",
+                    "size": 8310,
+                    "hash": "4504269b3e831eb3336cfe1ad6ec56ea2e63ce8611bd75cf20bff1957cef3b88",
+                    "urls": [
+                        "https://github.com/grum-sudo/bo7-mods/releases/download/1.0-bo3_health/bo3_health.gsc"
+                    ]
+                }
+            ]
         }
     ]
 }
