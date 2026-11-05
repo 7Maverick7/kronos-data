@@ -684,6 +684,41 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "cursed_reimagined_bo3_health",
+            "type": "script",
+            "name": "Cursed Reimagined - BO3 Health Compatible",
+            "author": "MeowRaK",
+            "version": "1",
+            "description": "BO3 Health-compatible edition of Cursed Reimagined featuring combined PaP and rarity progression, Green wall-buys and Mystery Box weapons, random Ammo Mods, classic melee, and fixed Field Upgrade recharge. Requires standalone BO3 Health, installed separately.",
+            "image": "https://raw.githubusercontent.com/MeowRaK/bo7-cursed-reimagined-bo3-health/main/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 100,
+                    "hash": "f1e6566bb70779b11c35b8583fda2edacdba7b595e7ecd7079949b54e695c432",
+                    "urls": [
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined-bo3-health/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_cursed_reimagined_bo3c.gsc",
+                    "size": 84930,
+                    "hash": "19f40c1cf9458f16330f922461bcb836a8ff16860b15d75a1c4d5f717b184a52",
+                    "urls": [
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined-bo3-health/releases/download/v1/zm_cursed_reimagined_bo3c.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/zm_cursed_arsenal_prompt_post.lua",
+                    "size": 6567,
+                    "hash": "64906c9b0843ec01c892efff1237c8340a7041e4f3d916b1668e7aee3a68981a",
+                    "urls": [
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined-bo3-health/releases/download/v1/zm_cursed_arsenal_prompt_post.lua"
+                    ]
+                }
+            ]
         }
     ]
 }
