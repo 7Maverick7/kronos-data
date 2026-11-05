@@ -136,7 +136,7 @@
             "type": "script",
             "name": "Cursed Reimagined",
             "author": "MeowRaK",
-            "version": "5",
+            "version": "5.0",
             "description": "Classic-inspired BO7 Zombies overhaul with combined PaP and rarity progression, Green wall-buys and Mystery Box weapons, random Ammo Mods, classic melee, custom armor, and fixed Field Upgrade recharge requirements. For more information, visit the GitHub repository: https://github.com/MeowRaK/bo7-cursed-reimagined"",
             "image": "https://raw.githubusercontent.com/MeowRaK/bo7-cursed-reimagined/main/preview.png",
             "files": [
