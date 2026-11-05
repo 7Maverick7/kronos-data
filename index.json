@@ -686,4 +686,39 @@
             ]
         }
     ]
-}
+},
+{
+    "id": "aether_blade_lethal",
+    "type": "script",
+    "name": "Aether Blade Lethal",
+    "author": "Shlogbobble",
+    "version": "1",
+    "description": "Endgame's Aether Blade as its own Zombies lethal. Pick AETHER BLADE next to the Combat Axe in your loadout: throw it and it homes in on the nearest zombie, chains through up to 7 of them, then flies back to you and refills after 3 seconds. You can also craft it at the crafting bench (Lethal tab, 4000 salvage), get it from the Mystery Box, and swapping it for another lethal drops it on the ground for anyone to pick up. Its kills count toward the Combat Axe T.E.D.D. trial. Works on every map.",
+    "image": "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/aether_blade_preview.jpg",
+    "files": [
+        {
+            "name": "mod.json",
+            "size": 86,
+            "hash": "e64fce06e6f0fccfaa66d9d28a9de75621cf73a257aca5e41e102b97e472671d",
+            "urls": [
+                "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/mod.json"
+            ]
+        },
+        {
+            "name": "scripts/zm_aether_blade_lethal.gsc",
+            "size": 142828,
+            "hash": "971234bdc27d794f68638759d0f1fa199f745c1b5cca9032eda252ee41896701",
+            "urls": [
+                "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/zm_aether_blade_lethal.gsc"
+            ]
+        },
+        {
+            "name": "lua/zm_aether_blade_menu_post.lua",
+            "size": 52048,
+            "hash": "742c1c5a9a59ab74562be9096482142ffcd82d7b0410526c5e682d184d69b3b5",
+            "urls": [
+                "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/zm_aether_blade_menu_post.lua"
+            ]
+        }
+    ]
+},
