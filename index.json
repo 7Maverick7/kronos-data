@@ -684,6 +684,32 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "restart_hotkey",
+            "type": "script",
+            "name": "Restart Hotkey",
+            "author": "Max",
+            "version": "1.0",
+            "description": "Instantly restarts the current Zombies match (fast restart, back to round 1): press Interact (F) and Melee (V) at the same time. Host only.",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 289,
+                    "hash": "804b6b06717ef5f8f448ed94b49a228ba9cc06bb8be83171a275b0752e01473f",
+                    "urls": [
+                        "https://github.com/ketsueki96/restart_hotkey_v1.0/releases/download/v1.0/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_restart_hotkey.gsc",
+                    "size": 1074,
+                    "hash": "5757c8b1a6bf0abef81b9c3f5bf7e2330fe1cb136d3b357b6afce73798a19f61",
+                    "urls": [
+                        "https://github.com/ketsueki96/restart_hotkey_v1.0/releases/download/v1.0/zm_restart_hotkey.gsc"
+                    ]
+                }
+            ]
         }
     ]
 }
