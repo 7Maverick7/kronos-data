@@ -684,6 +684,41 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "fast_restart",
+            "type": "script",
+            "name": "Fast Restart",
+            "author": "Tinhorn",
+            "version": "1",
+            "description": "Old-CoD fast restart in any Zombies match. Crouch, then pause: Save & Quit becomes Fast Restart. Pause standing for the normal Save & Quit.",
+            "image": "https://github.com/The-Tinhorn/bo7-fast-restart/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 333,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/The-Tinhorn/bo7-fast-restart/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/fast_restart.gsc",
+                    "size": 2279,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/The-Tinhorn/bo7-fast-restart/releases/download/v1/fast_restart.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/fast_restart_post.lua",
+                    "size": 4721,
+                    "hash": "",
+                    "urls": [
+                        "https://github.com/The-Tinhorn/bo7-fast-restart/releases/download/v1/fast_restart_post.lua"
+                    ]
+                }
+            ]
         }
     ]
 }
