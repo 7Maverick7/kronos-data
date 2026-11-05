@@ -43,7 +43,7 @@
             "name": "Blood Burner",
             "author": "Shlogbobble",
             "version": "2",
-            "description": "Endgame's Blood Burner bike as a Zombies field upgrade. Pick it in your loadout and use it to summon your own bike: run zombies down to charge its Aether Pulse, which shocks nearby zombies and drops a live LT53 Kazimir. Left alone, the bike lures zombies in and explodes. Works on every map. On Ashes of the Damned it also smashes the wooden barriers like Tessie, rams Veytherion for Tessie's damage and carries his aetheric energy during his spin phase. Ashes also has its own Blood Burner waiting at Exit 115, dormant until you find its key and feed it 50 souls; once it's awake, one waits in the boss arena too. (The two zm_blood_burner_ashes files only load on Ashes, by design.)",
+            "description": "Endgame's Blood Burner bike as a Zombies field upgrade: summon your own bike and run zombies down to charge its Aether Pulse, which shocks nearby zombies and drops a live LT53 Kazimir. Left alone, it lures zombies in and explodes. Works on every map. On Ashes of the Damned it smashes the wooden barriers like Tessie, rams Veytherion and carries his aetheric energy. Ashes also hides a Blood Burner at Exit 115: find its key and feed it 50 souls to wake it, and one waits in the boss arena too.",
             "image": "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v2/blood_burner_preview.jpg",
             "files": [
                 {
