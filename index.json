@@ -136,24 +136,24 @@
             "type": "script",
             "name": "Cursed Reimagined",
             "author": "MeowRaK",
-            "version": "4.0",
-            "description": "Classic-inspired BO7 Zombies overhaul with combined PaP and rarity progression, Green wall-buys and Mystery Box weapons, random Ammo Mods, classic melee, custom armor, and fixed Field Upgrade recharge requirements.",
+            "version": "5.0",
+            "description": "Classic-inspired BO7 Zombies overhaul with combined PaP and rarity progression, Green wall-buys and Mystery Box weapons, random Ammo Mods, classic melee, custom armor, and fixed Field Upgrade recharge requirements. For more information, visit the GitHub repository: https://github.com/MeowRaK/bo7-cursed-reimagined",
             "image": "https://raw.githubusercontent.com/MeowRaK/bo7-cursed-reimagined/main/preview.png",
             "files": [
                 {
                     "name": "mod.json",
-                    "size": 77,
-                    "hash": "48cf6d43da89b46cbab2501e74368c3a7df184824edf64fe24abb4fe6a60c652",
+                    "size": 196,
+                    "hash": "3a677f6fb64bde2365dc4dc08a276c9a9a8af433d3c7bd5e75531a1d7b7b93fa",
                     "urls": [
-                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/mod.json"
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v5.0/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/zm_cursed_reimagined.gsc",
-                    "size": 71441,
-                    "hash": "1ebd1a4f458feb62333f58491fbb2b01cd1ba6d4f04a98b4ebe720ba695f8d50",
+                    "size": 82203,
+                    "hash": "3f9c549253c68ca36c927932de03c9ad0e0a02700477a653fd87320943bf6592",
                     "urls": [
-                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_cursed_reimagined.gsc"
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v5.0/zm_cursed_reimagined.gsc"
                     ]
                 },
                 {
@@ -161,7 +161,7 @@
                     "size": 21013,
                     "hash": "b64919eafaeebd814a7bbfa6e3fae06d0e6e262a2856b767a041dd9c2a0d67a8",
                     "urls": [
-                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_classic_perks_2500.gsc"
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v5.0/zm_classic_perks_2500.gsc"
                     ]
                 },
                 {
@@ -169,7 +169,7 @@
                     "size": 6567,
                     "hash": "64906c9b0843ec01c892efff1237c8340a7041e4f3d916b1668e7aee3a68981a",
                     "urls": [
-                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v4.0/zm_cursed_arsenal_prompt_post.lua"
+                        "https://github.com/MeowRaK/bo7-cursed-reimagined/releases/download/v5.0/zm_cursed_arsenal_prompt_post.lua"
                     ]
                 }
             ]
