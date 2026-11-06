@@ -43,7 +43,7 @@
             "name": "Blood Burner",
             "author": "Shlogbobble",
             "version": "2",
-            "description": "Endgame's Blood Burner bike as a Zombies field upgrade. Pick it in your loadout and use it to summon your own bike: run zombies down to charge its Aether Pulse, which shocks nearby zombies and drops a live LT53 Kazimir. Left alone, the bike lures zombies in and explodes. Works on every map. On Ashes of the Damned it also smashes the wooden barriers like Tessie, rams Veytherion for Tessie's damage and carries his aetheric energy during his spin phase. Ashes also has its own Blood Burner waiting at Exit 115, dormant until you find its key and feed it 50 souls; once it's awake, one waits in the boss arena too. (The two zm_blood_burner_ashes files only load on Ashes, by design.)",
+            "description": "Endgame's Blood Burner bike as a Zombies field upgrade: summon your own bike and run zombies down to charge its Aether Pulse, which shocks nearby zombies and drops a live LT53 Kazimir. Left alone, it lures zombies in and explodes. Works on every map. On Ashes of the Damned it smashes the wooden barriers like Tessie, rams Veytherion and carries his aetheric energy. Ashes also hides a Blood Burner at Exit 115: find its key and feed it 50 souls to wake it, and one waits in the boss arena too.",
             "image": "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/blood_burner_v2/blood_burner_preview.jpg",
             "files": [
                 {
@@ -804,6 +804,41 @@
                     "hash": "af64ca11dc559689ac7edd277e0bf8c79f1fa10bcd5f8e6993dee207023e02dc",
                     "urls": [
                         "https://github.com/The-Tinhorn/bo7-fast-restart/releases/download/v1/fast_restart_post.lua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "aether_blade_lethal",
+            "type": "script",
+            "name": "Aether Blade Lethal",
+            "author": "Shlogbobble",
+            "version": "1",
+            "description": "Endgame's Aether Blade as its own Zombies lethal. Pick AETHER BLADE next to the Combat Axe in your loadout: throw it and it homes in on the nearest zombie, chains through up to 7 of them, then flies back to you and refills after 3 seconds. You can also craft it at the crafting bench (Lethal tab, 4000 salvage), get it from the Mystery Box, and swapping it for another lethal drops it on the ground for anyone to pick up. Its kills count toward the Combat Axe T.E.D.D. trial. Works on every map.",
+            "image": "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/aether_blade_preview.jpg",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 86,
+                    "hash": "e64fce06e6f0fccfaa66d9d28a9de75621cf73a257aca5e41e102b97e472671d",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_aether_blade_lethal.gsc",
+                    "size": 142828,
+                    "hash": "971234bdc27d794f68638759d0f1fa199f745c1b5cca9032eda252ee41896701",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/zm_aether_blade_lethal.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/zm_aether_blade_menu_post.lua",
+                    "size": 52048,
+                    "hash": "742c1c5a9a59ab74562be9096482142ffcd82d7b0410526c5e682d184d69b3b5",
+                    "urls": [
+                        "https://github.com/azaliakgoldie-cmd/bo7-zombies-mods/releases/download/aether_blade_v1/zm_aether_blade_menu_post.lua"
                     ]
                 }
             ]
