@@ -877,6 +877,113 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "xp_hud_overlay",
+            "type": "ui",
+            "name": "XP HUD Overlay",
+            "author": "ripsawuk",
+            "image": "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/preview.png",
+            "version": "1",
+            "description": "XP HUD Overlay v1.0. Provides a visible overlay on your HUD to show you live XP being earned in game. Various customisation options that can be changed in game from positioning, to colours, to bar types (cats??). Dont like the bar? Disable it. Use the text only. Dont like the text? Disable it, use the bar only. Adjust to your liking. Currently only captures operator levelling and XP.",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 536,
+                    "hash": "665ce8d68995d39856cf749e508223efd11f1e5dc130f91c4f049550d8aa0a13",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "lua/xp_hud_overlay_post.lua",
+                    "size": 79245,
+                    "hash": "4652d3bb06f7771c99e2fee02d1e8ab52ac6ff79eef53212fe88c97e90592aaf",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/xp_hud_overlay_post.lua"
+                    ]
+                },
+                {
+                    "name": "scripts/xp_hud_overlay_store.gsc",
+                    "size": 1538,
+                    "hash": "228c785b1e718fa28a31b4498dc15390a80c830759208ad28fc5abb2686bdc32",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/xp_hud_overlay_store.gsc"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_body.png",
+                    "size": 94,
+                    "hash": "896fdab6a89673721febde36a7575b6e1732ae194ebd30bdf5957a0563c28099",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_body.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_cap.png",
+                    "size": 155,
+                    "hash": "1b1c5f5225a36a41b0459e20530058e95cdd41a261ebbc7eabd5c9a960ed06f4",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_cap.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_dragonstrip.png",
+                    "size": 14758,
+                    "hash": "9662548ac677d03cc02bea3f3612104a85b346f9507a941b0a803ba4f930ea23",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_dragonstrip.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_glow.png",
+                    "size": 4852,
+                    "hash": "1f6e4d4ff9e5d2edcf68e7f71034a6ed6ab457482ece1b38836fcdd63b56a78f",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_glow.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_pawstrip.png",
+                    "size": 14233,
+                    "hash": "6c414cb1b76c36759fb15159a135841a4465bc68d0e13b0ae17c94c32935bd27",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_pawstrip.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_seg.png",
+                    "size": 207,
+                    "hash": "16353f4f10e31b8ea9ee2bf53558d99d057672c88d08f942364058b156ba6c93",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_seg.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_stripe.png",
+                    "size": 78,
+                    "hash": "82436a579671a6efde84357f255ff2bde36be02b828bf9ae9d1acfc9e6f389a9",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_stripe.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_tip.png",
+                    "size": 146,
+                    "hash": "22007a4002881adafdb93ff96f5a24d81a26529e6f9b0d29ce4b43c1b406ff6a",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_tip.png"
+                    ]
+                },
+                {
+                    "name": "images/zmhud_track.png",
+                    "size": 468,
+                    "hash": "62471bb13452d613763beadb4a1e2c44009e63928551db0a4ece05128912d428",
+                    "urls": [
+                        "https://github.com/ripsawuk/xp_hud_overlay/releases/download/v1/zmhud_track.png"
+                    ]
+                }
+            ]
         }
     ]
 }
