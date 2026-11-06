@@ -842,6 +842,41 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "perk_remove",
+            "type": "script",
+            "name": "Perk Remove",
+            "author": "Kazuto",
+            "version": "1",
+            "description": "Remove any perk you own at its own machine (Press F / X). No refunds, Eternal perks stay. Standard, Cursed and Mister Peeks Mayhem. Works with Classic Perks.",
+            "image": "https://github.com/SirKazuto/perk-remove/releases/download/v1/preview.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 74,
+                    "hash": "74339b0789c5eaf36d85d093bac83a0fdc844ab961fc18782d9ada56fcccd7bd",
+                    "urls": [
+                        "https://github.com/SirKazuto/perk-remove/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_perk_remove.gsc",
+                    "size": 18601,
+                    "hash": "5fccbca56ebfcbe3c3295c6d9f13327fc5817232145a317a98d51a570b15f2b4",
+                    "urls": [
+                        "https://github.com/SirKazuto/perk-remove/releases/download/v1/zm_perk_remove.gsc"
+                    ]
+                },
+                {
+                    "name": "lua/zm_perk_remove_post.lua",
+                    "size": 6149,
+                    "hash": "1566a1364ed80851167f3571a1fa4f856d03af4149825a5acf9e882f981c2d92",
+                    "urls": [
+                        "https://github.com/SirKazuto/perk-remove/releases/download/v1/zm_perk_remove_post.lua"
+                    ]
+                }
+            ]
         }
     ]
 }
