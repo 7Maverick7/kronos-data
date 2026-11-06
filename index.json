@@ -745,6 +745,33 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "phd_tribologist_fix",
+            "type": "script",
+            "name": "PhD Tribologist Buffed",
+            "author": "Trinity",
+            "version": "1",
+            "description": "Buffs PhD Flopper's Tribologist augment: no 3 second cooldown between slide boosts, a stronger boost, and a higher speed cap. Only affects players with Tribologist equipped.",
+            "image": "https://github.com/Trinifite/kronos-phd-fix/releases/download/v1/tribologist_buffed.png",
+            "files": [
+                {
+                    "name": "mod.json",
+                    "size": 91,
+                    "hash": "cec0e026c24e43279d5f0679536d5c2a60c1144729f184fc8193669d1217e6b2",
+                    "urls": [
+                        "https://github.com/Trinifite/kronos-phd-fix/releases/download/v1/mod.json"
+                    ]
+                },
+                {
+                    "name": "scripts/zm_trin_tribologist.gsc",
+                    "size": 2087,
+                    "hash": "116e362933888a554e561f699f61645d5ee4d6bc6cbbffe183676d286923051a",
+                    "urls": [
+                        "https://github.com/Trinifite/kronos-phd-fix/releases/download/v1/zm_trin_tribologist.gsc"
+                    ]
+                }
+            ]
         }
     ]
 }
