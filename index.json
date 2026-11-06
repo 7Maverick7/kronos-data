@@ -377,24 +377,24 @@
             "type": "script",
             "name": "FuzMenu",
             "author": "Fuzion28",
-            "version": "2.4.2",
+            "version": "2.4.5",
             "description": "Solo Zombies mod menu: god mode, teleports, any weapon or wonder weapon, Pack-a-Punch, perks, gobblegums, rounds, zombies, saved weapon builds and more. Open with Aim + Melee.",
             "image": "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/preview.png",
             "files": [
                 {
                     "name": "mod.json",
                     "size": 76,
-                    "hash": "9b4b7eb5b8d299aae267ef70d1ec8d706898621bc3f1002de1507f5181b0a46d",
+                    "hash": "a71b4209a037f61c7654caf8ceb4dfb8ddfb5f3569e6882328ac63c93c1ffdd1",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/mod.json"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.5/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/zm_mod_menu.gsc",
-                    "size": 145254,
-                    "hash": "ef20d1a8139c5e50b166ebe2a0803ad715bcad13104103b6e4a2da11343f07b9",
+                    "size": 190331,
+                    "hash": "690b9cfd4b78f924e6af290d964f7f9bc44bdb92f805d3ec5427e249e49060bc",
                     "urls": [
-                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.2/zm_mod_menu.gsc"
+                        "https://github.com/Fuzion28/fuzmenu/releases/download/v2.4.5/zm_mod_menu.gsc"
                     ]
                 },
                 {
